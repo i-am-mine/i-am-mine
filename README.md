@@ -57,10 +57,10 @@ So, take a cup of matcha 🍵, explore freely, and maybe you will discover somet
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="assets/hackerrank.png" alt="HackerRank Achievements" width="45%" />
+      <img src="assets/hackerrank.png" alt="HackerRank Achievements" />
     </td>
     <td align="center" valign="top">
-      <img src="assets/codingame.png" alt="CodinGame Achievements" width="45%" />
+      <img src="assets/codingame.png" alt="CodinGame Achievements"  />
     </td>
   </tr>
 </table>
