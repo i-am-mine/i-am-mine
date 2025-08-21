@@ -11,7 +11,7 @@ The name **Mine** is a shortcut for _“Minh nè”_, which roughly means **“H
 ## ✨ Fun Facts
 - I love clean code, optimization and algorithms 🧩
 - I debug with matcha 🍵
-- Favorite challenge: making C++ templates behave nicely 😅
+- Favorite challenge: making `C++` templates behave nicely 😅
 
 
 So, take a cup of matcha 🍵, explore freely, and maybe you will discover something interesting, or at least slightly optimized. 🚀
@@ -64,12 +64,6 @@ So, take a cup of matcha 🍵, explore freely, and maybe you will discover somet
     </td>
   </tr>
 </table>
-
-<!-- <p align="center">
-  <img src="assets/hackerrank.png" alt="HackerRank Achievements" width="45%" />
-  &nbsp;&nbsp;
-  <img src="assets/codingame.png" alt="CodinGame Achievements" width="45%" />
-</p> -->
 
 
 
