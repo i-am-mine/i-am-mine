@@ -7,14 +7,25 @@ The name **Mine** is a shortcut for _“Minh nè”_, which roughly means **“H
 ###### I prefer it pronounced as */Mi-ne/*, rather than */Mi-nə/* or */Min/* (yes, that small detail matters, lol).
 
 
+## 🌟 Featured Projects
+<p align="center">
+  <a href="https://github.com/i-am-mine/debug-this-if-you-can">
+    <img src="https://img.shields.io/badge/Coding-Debug%20This%20If%20You%20Can-red?style=for-the-badge" alt="debug-this-if-you-can">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/i-am-mine">
+    <img src="https://img.shields.io/badge/MiniGame-To%20Be%20Defined-green?style=for-the-badge" alt="MiniGame">
+  </a>
+</p>
+
 
 ## ✨ Fun Facts
-- I love clean code, optimization and algorithms 🧩
+- I love clean code, optimization and algorithms
 - I debug with matcha 🍵
 - Favorite challenge: making `C++` templates behave nicely 😅
 
 
-So, take a cup of matcha 🍵, explore freely, and maybe you will discover something interesting, or at least slightly optimized. 🚀
+So, take a cup of matcha 🍵, explore freely, and maybe you will discover something interesting, or at least slightly optimized.
 
 
 
