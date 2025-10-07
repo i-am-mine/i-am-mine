@@ -77,4 +77,15 @@ So, take a cup of matcha 🍵, explore freely, and maybe you will discover somet
 </table>
 
 
+## 📝 Publications
+
+| Year | Type           | Title                        | Venue           | Link                           |
+| ---- | -------------- | ---------------------------- | --------------- | ------------------------------ |
+| 2025 | Thesis        | Numerical optimization for large scale mechanical problems : Friction and plasticity     | HAL archive   | [PDF](https://theses.hal.science/tel-05219416v1)     |
+| 2024 | Conference Presentation     | An interior-point approach to solving friction contact problems in hyperstatic scenarios    | CMIS Lyon            | [Abstract](https://cmis2024.sciencesconf.org/data/pages/CMIS_2024_Livret_final_v2_.pdf#page=54)    |
+| 2024 | Journal Paper     | Second-order cone programming for frictional contact mechanics using interior point algorithm    | OMS            | [Cite](https://www.tandfonline.com/doi/epdf/10.1080/10556788.2023.2296438?needAccess=true) [PDF](https://hal.science/hal-03913568/document)     |
+| 2023 | Conference Presentation     | Interior point methods for computing frictional contact problems with hyperstaticity    | ICCCM Torino            | [Abstract](https://conference.unisalento.it/ocs/public/conferences/40/fmgr_upload/documentation/ICCCM2023_Book_of_abstracts.pdf?v=2#page=71)    |
+| 2022 | Conference Paper         | High-accuracy Computation of Rolling Friction Contact Problems | IEEE NICS | [Cite](https://ieeexplore.ieee.org/abstract/document/10013388) [PDF](https://inria.hal.science/hal-03741048v1/document)           |
+| 2022 | Conference Poster | Second-order cone programming for rolling friction contact mechanics             | SMAI MODE Limoges          | [PDF](https://inria.hal.science/hal-03761228/document) |
+
 
