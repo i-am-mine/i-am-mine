@@ -89,3 +89,8 @@ So, take a cup of matcha 🍵, explore freely, and maybe you will discover somet
 | 2022 | Conference Poster | Second-order cone programming for rolling friction contact mechanics             | SMAI MODE Limoges          | [PDF](https://inria.hal.science/hal-03761228/document) |
 
 
+## 🎓 Education
+
+- **Ph.D. in Applied Mathematics**, [TRIPOP team](https://team.inria.fr/tripop/) at INRIA and Jean Kuntzmann Laboratory, University of Grenoble-Alpes, France, 2025.
+- **M.Sc. in Applied Mathematics**, University of Limoges, France, 2021.
+- **B.Sc. in Computer Engineering (ABET-accredited)**, Vietnam National University, Ho Chi Minh City University of Technology (HCMUT), Vietnam, 2015.
