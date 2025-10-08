@@ -13,7 +13,7 @@ The name **Mine** is a shortcut for _“Minh nè”_, which roughly means **“H
     <img src="https://img.shields.io/badge/Coding-Debug%20This%20If%20You%20Can-red?style=for-the-badge" alt="debug-this-if-you-can">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/i-am-mine">
+  <a href="https://github.com/i-am-mine/ducky-snake">
     <img src="https://img.shields.io/badge/MiniGame-Ducky%20Snake-green?style=for-the-badge" alt="MiniGame">
   </a>
   &nbsp;&nbsp;&nbsp;
