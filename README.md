@@ -14,7 +14,11 @@ The name **Mine** is a shortcut for _“Minh nè”_, which roughly means **“H
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/i-am-mine">
-    <img src="https://img.shields.io/badge/MiniGame-To%20Be%20Defined-green?style=for-the-badge" alt="MiniGame">
+    <img src="https://img.shields.io/badge/MiniGame-Ducky%20Snake-green?style=for-the-badge" alt="MiniGame">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/siconos/siconos">
+    <img src="https://img.shields.io/badge/Framework-Siconos-blue?style=for-the-badge" alt="Siconos">
   </a>
 </p>
 
